@@ -42,6 +42,7 @@ int main()
 
 }
 ```
+![exp16](https://github.com/ashuydv-05/Experiment-16/blob/main/Screenshot%202024-10-22%20070942.png)
 
 Conclusion:- In this experiment we learnt about exceptional handling and its keywords
 
